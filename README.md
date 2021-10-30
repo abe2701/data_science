@@ -3,7 +3,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/abe2701/data_science/issues)
 
 <p align="center">
-  <img src="new-banner.png" >
+  <img src="new-banner.jpg" >
 </p>
 
 # data_science
