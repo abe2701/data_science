@@ -6,8 +6,10 @@
   <img src="banner.png" >
 </p>
 
+# data_science
+Formado em análise e desenvolvimento de sistema, 
+
 <b>Skills:</b> Python, SQL, Data Studio, Tableu.
 
-
-# data_science
-Meu portfolio para projetos de Data Science
+# projetos
+Analisando dados Airbnb - Lisboa: 
