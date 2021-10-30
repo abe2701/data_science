@@ -14,4 +14,4 @@ Este portifólio tem como objeto armazenar e apresentar projetos relacionados a 
 <b>Skills:</b> Python, SQL, Data Studio, Tableu.
 
 # projetos
-Analisando dados Airbnb - Lisboa:[Link](https://github.com/abe2701/data_science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb)
+Analisando dados Airbnb - Lisboa: [Link](https://github.com/abe2701/data_science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb)
