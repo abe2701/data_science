@@ -7,7 +7,9 @@
 </p>
 
 # data_science
-Formado em análise e desenvolvimento de sistema, 
+Formado em análise e desenvolvimento de sistema e com experiência em colete, limpeza e extração de dados aramazenados em bancos de dados ou espalhados na web.
+
+Este portifólio tem como objeto armazenar e apresentar projetos relacionados a Análise e Ciencia de dados.
 
 <b>Skills:</b> Python, SQL, Data Studio, Tableu.
 
