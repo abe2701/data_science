@@ -6,7 +6,7 @@
   <img src="banner.png" >
 </p>
 
-<b>Skills</b> python, SQL, Data Studio, Tableu.
+<b>Skills:</b> Python, SQL, Data Studio, Tableu.
 
 
 # data_science
