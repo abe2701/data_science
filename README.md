@@ -6,6 +6,8 @@
   <img src="banner.png" >
 </p>
 
+<b>Skills</b>
+
 
 # data_science
 Meu portfolio para projetos de Data Science
