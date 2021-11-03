@@ -6,11 +6,13 @@
 </p>
 
 # data_science
-Formado em análise e desenvolvimento de sistema e com experiência em coleta, limpeza e extração de dados.
+Entusiasta em Análise de Dados para conhecimento de diferentes temas.
 
-Este portifólio tem como objeto armazenar e apresentar projetos relacionados a Análise e Ciência de dados.
+Formado em Análise e Desenvolvimento de sistema na Faculdade Impacta de Tecnologia (2019).
 
-<b>Skills:</b> Python, SQL, Data Studio, Tableu.
+Profissional com mais de 4 anos de experiência em Suporte a diferente sistemas e tecnologias.
+
+<b>Skills:</b> Python, SQL, Pandas, Matplotlib, Data Studio, Tableu.
 
 # projetos
 Analisando dados Airbnb - Lisboa: [Link](https://github.com/abe2701/data_science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb)
