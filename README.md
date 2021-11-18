@@ -6,7 +6,7 @@
 </p>
 
 # data_science
-Entusiasta em Análise de Dados para conhecimento de diferentes temas.
+Entusiasta em Análise de Dados.
 
 Formado em Análise e Desenvolvimento de sistema na Faculdade Impacta de Tecnologia (2019).
 
