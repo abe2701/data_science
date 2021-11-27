@@ -5,14 +5,12 @@
   <img src="new-banner.jpg" >
 </p>
 
-# data_science
-Entusiasta em Análise de Dados.
+# Data_science
+Analista de Dados com foco em Python, SQL e ETL para extração, limpeza, armazenamento de dados e automação de processos para tomada de decisões através dos insights obtidos.
 
-Formado em Análise e Desenvolvimento de sistema na Faculdade Impacta de Tecnologia (2019).
-
-Profissional com mais de 4 anos de experiência em Suporte a diferente sistemas e tecnologias.
+Combino habilidades técnicas, analíticas e aptidão no trabalho em equipe para resolver problemas frequentes de times comerciais.
 
 <b>Skills:</b> Python, SQL, Pandas, Matplotlib, Data Studio, Tableu.
 
-# projetos
+# Projetos
 Analisando dados Airbnb - Lisboa: [Link](https://github.com/abe2701/data_science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb)
