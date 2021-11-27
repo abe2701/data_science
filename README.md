@@ -10,7 +10,7 @@ Analista de Dados com foco em Python, SQL e ETL para extração, limpeza, armaze
 
 Combino habilidades técnicas, analíticas e aptidão no trabalho em equipe para resolver problemas frequentes de times comerciais.
 
-<b>Skills:</b> Python, SQL, Pandas, Matplotlib, Data Studio, Tableu.
+<b>Skills:</b> Python, SQL, Pandas, Matplotlib, Data Studio, Tableu, Power BI.
 
 # Projetos
 Analisando dados Airbnb - Lisboa: [Link](https://github.com/abe2701/data_science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb)
